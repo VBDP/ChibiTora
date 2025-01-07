@@ -1,0 +1,99 @@
+{
+  "dependencies": {
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.5"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29"
+    },
+    "com.vrchat.avatars": {
+      "version": "3.7.5"
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.7"
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.34"
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1154.0"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.3"
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.11.1"
+    },
+    "gogoloco": {
+      "version": "1.8.6"
+    },
+    "com.github.kurotu.vrc-quest-tools": {
+      "version": "2.6.0"
+    }
+  },
+  "locked": {
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.5",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29",
+      "dependencies": {}
+    },
+    "com.vrchat.avatars": {
+      "version": "3.7.5",
+      "dependencies": {
+        "com.vrchat.base": "3.7.5"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.7.5",
+      "dependencies": {}
+    },
+    "lyuma.av3emulator": {
+      "version": "3.4.7",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.1.0"
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.34",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2 - 3.7"
+      }
+    },
+    "com.vrcfury.vrcfury": {
+      "version": "1.1154.0",
+      "dependencies": {}
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.3",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.5.2 < 3.8.X"
+      }
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.11.1",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.7.4",
+        "nadena.dev.ndmf": ">=1.6.0 <2.0.0-a"
+      }
+    },
+    "nadena.dev.ndmf": {
+      "version": "1.6.2",
+      "dependencies": {}
+    },
+    "gogoloco": {
+      "version": "1.8.6",
+      "dependencies": {
+        "com.vrchat.avatars": ">=3.2.2"
+      }
+    },
+    "com.github.kurotu.vrc-quest-tools": {
+      "version": "2.6.0",
+      "dependencies": {
+        "com.vrchat.avatars": "^3.3.0"
+      }
+    }
+  }
+}

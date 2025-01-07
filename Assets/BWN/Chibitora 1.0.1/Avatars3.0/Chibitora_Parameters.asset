@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Chibitora_Parameters
+  m_EditorClassIdentifier: 
+  isEmpty: 0
+  parameters:
+  - name: VRCEmote
+    valueType: 0
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: Move
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Hand
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Face
+    valueType: 0
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: All reset
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: TailBool
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: TailX
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: TailY
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: EarBool
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: EarX
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: EarY
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: Emission Radial
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Collider OFF
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1
+  - name: Object Slot A
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Object Slot B
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Object Slot C
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Object Slot D
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Object Slot E
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Object Slot F
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Object Reset
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+    networkSynced: 1

@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ComfySphere Main Menu
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: ComfySphere
+    icon: {fileID: 2800000, guid: f16d063e250b81a46b6286eec0d9c447, type: 3}
+    type: 102
+    parameter:
+      name: ComfySphere
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: ComfySphere Size
+    icon: {fileID: 2800000, guid: cf0f2e7195d95974b901216ca272066f, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: ComfySphere Size
+    labels: []
+  - name: ComfySphere Light Dimmer
+    icon: {fileID: 2800000, guid: cec37afd1646e75489d82b07b0dc61de, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: ComfySphere Light Dimmer
+    labels: []
+  - name: ComfySphere WorldPlace
+    icon: {fileID: 2800000, guid: 65ccf77513199924c8a7451c5070d3f4, type: 3}
+    type: 102
+    parameter:
+      name: ComfySphere WorldPlace
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Comfy Audios
+    icon: {fileID: 2800000, guid: 4fe71941cca9a4e468cfc394b3dab537, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 485dfdd6ea0c6c246b3699fe568a19eb, type: 2}
+    subParameters: []
+    labels: []
+  - name: Sphere Types
+    icon: {fileID: 2800000, guid: f16d063e250b81a46b6286eec0d9c447, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 1904def66ae599d4db4a928de76a614e, type: 2}
+    subParameters: []
+    labels: []
+  - name: ComfySphere Private
+    icon: {fileID: 2800000, guid: c640485da30996544ac2e01145298e0d, type: 3}
+    type: 102
+    parameter:
+      name: ComfySphere Private
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
