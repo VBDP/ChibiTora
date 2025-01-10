@@ -1,0 +1,37 @@
+Something to note is that interactions must be enabled with players for
+the halo to attach to them. Also try to take an extra second before letting
+go of the halo as network latency can cause some desync if you move too fast but regrabbing the halo
+should always sync its position for people who are around it.
+
+-----------------------------------------------------
+
+Modular avatar installation:
+
+https://youtu.be/RkeVycWVsOc?si=2wfaBM0OnJqNtmfO
+
+-----------------------------------------------------
+
+Manual installation: 
+
+https://youtu.be/91TG3D-BnyU
+
+-----------------------------------------------------
+
+How to use in game:
+
+https://youtu.be/RjMlfOoRCcQ
+
+-----------------------------------------------------
+
+If you have any issues or suggestions for features you'd want to 
+see added be sure to let me know.
+
+Discord: ThatFatKidsMom
+
+
+Change log:
+1.0.0- Initial release
+1.0.1- Moves contact from bone to halo container for more consitency
+1.0.2- Adjust constraints and set up to make it more seamless with the avatar scaling feature
+1.0.3- Fixed an issue with WD on causing the halo to disapear when grabbed
+1.0.4- Modular avatar compatability
